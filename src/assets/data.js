@@ -1,0 +1,42 @@
+export const data = [
+  {
+    question: "Which device is required for internet connections?",
+    option1: "Modem",
+    option2: "Router",
+    option3: "LAN Cable",
+    option4: "Pen drive",
+    ans: 1,
+  },
+  {
+    question: "Which part of the computer is considered the brain?",
+    option1: "Hard Drive",
+    option2: "RAM",
+    option3: "CPU",
+    option4: "GPU",
+    ans: 3,
+  },
+  {
+    question: "What does HTML stand for?",
+    option1: "Hyper Trainer Marking Language",
+    option2: "Hyper Text Markup Language",
+    option3: "High Text Machine Language",
+    option4: "Hyper Tabular Markup Language",
+    ans: 2,
+  },
+  {
+    question: "Which of the following is not an operating system?",
+    option1: "Linux",
+    option2: "Windows",
+    option3: "Python",
+    option4: "macOS",
+    ans: 3,
+  },
+  {
+    question: "What is the main function of RAM?",
+    option1: "Store permanent files",
+    option2: "Process images",
+    option3: "Run software and store temporary data",
+    option4: "Control display output",
+    ans: 3,
+  },
+];
